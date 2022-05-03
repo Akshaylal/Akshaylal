@@ -23,7 +23,7 @@ I am an IT Student who loves coding.
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Akshaylal/&title=Profile%20Views)
 
-![Akshaylal's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaylal&include_all_commits=true&show_icons=true&theme=tokyonight)
+![Akshaylal's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaylal&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaylal&layout=compact&theme=tokyonight)
 
